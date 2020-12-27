@@ -1,5 +1,7 @@
-#> lgd:v1/api/util/reduce_durability_by_n
+#> lgd:v1/api/util/damage_item_by_n
 # @api
+# 
+# Increase the damage of the given custom item by the specified amount and recalculate the "physical" damage to match the custom damage.
 # 
 # Input:
 #  - [item] field in lgd:storage
